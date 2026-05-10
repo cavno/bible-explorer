@@ -7,6 +7,7 @@
 [![No Build](https://img.shields.io/badge/build-none-success.svg)](#)
 
 ## 概述
+访问：https://cavno.github.io/bible-explorer/
 
 本项目是一个完全静态的网页应用——纯 HTML + CSS + JavaScript，无任何构建步骤、无后端依赖。可直接打开 `index.html` 在本地浏览，也可一键部署到 GitHub Pages。
 
